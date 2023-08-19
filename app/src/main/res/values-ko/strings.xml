@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">알림, 스케즐관리 (Lite)</string>
+    <string name="action_settings">설정</string>
+    <string name="action_strValue">점검문자열</string>
+    <string name="title_activity_str_value_manager">점검문자관리</string>
+    <string name="lableSave">저장</string>
+    <string name="dialogSave">저장할까요?</string>
+    <string name="lableCancel">취소</string>
+    <string name="action_backup">백업</string>
+    <string name="msgNotBackup">백업이 실폐하였습니다.</string>
+    <string name="msgBackup">백업하는 중</string>
+    <string name="msgBackupCompiled">백업이 되었습니다.</string>
+    <string name="lableReceivedSMS">수신한 SMS,MMS 읽기</string>
+    <string name="msgFailedPermission">권한을 얻을 수 없습니다.</string>
+    <string name="msgGetPermission">권한 얻기</string>
+    <string name="msgGrantPermission">권한이 승인 되었습니다.</string>
+    <string name="dialogDelete">삭제할까요?</string>
+    <string name="lableDelete">삭제</string>
+    <string name="msgNoDelete">삭제할 수 없습니다.</string>
+    <string name="strId">ID</string>
+    <string name="lablePhoneNumber">수신번호</string>
+    <string name="lableEventId">일정ID</string>
+    <string name="labelChkValue">검증문자</string>
+    <string name="lableStrBody">본문내용</string>
+    <string name="labelRegDate">등록일자</string>
+    <string name="action_help">도움말</string>
+    <string name="labelOption">선택사항</string>
+    <string name="labelAlarmTime">알람시간</string>
+    <string name="labelGmailAccount">구글계정</string>
+    <string name="before15min">15분</string>
+    <string name="before30min">30분</string>
+    <string name="before60min">60분</string>
+    <string name="labelEventTime">일정등록시간</string>
+    <string name="labelEventTy">일정 등록 여부</string>
+    <string name="mesgEventTy">선택시 카렌더에 일정 등록 여부가 설정 됩니다.</string>
+    <string name="labelTrue">사용</string>
+    <string name="labelFalse">사용안함</string>
+    <string name="msgLiteVersion">Lite 버전. 등록 갯수를 초과했습니다.</string>
+    <string name="msgFinish">OK</string>
+    <string name="label_finish_apps">종료하려면, 뒤로 가기 버튼을 한번 더 클릭하세요.</string>
+</resources>

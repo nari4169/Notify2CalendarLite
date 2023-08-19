@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_time">
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+    </string-array>
+    <string-array name="alarm_before_time">
+        <item>@string/before30min</item>
+        <item>@string/before60min</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nari.notify2calendar.MainActivity">
+    <item
+        android:id="@+id/action_strValue_mng1"
+        android:title="@string/action_strValue" />
+<!--    <item
+        android:id="@+id/action_ReceivedSMS"
+        android:title="@string/lableReceivedSMS" />-->
+    <item
+        android:id="@+id/action_backup1"
+        android:title="@string/action_backup" />
+    <item
+        android:id="@+id/action_option"
+        android:title="@string/labelOption"/>
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"
+        app:showAsAction="never" />
+</menu>

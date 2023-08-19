@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/labelOption">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="event_ty"
+            android:summary="@string/mesgEventTy"
+            android:title="@string/labelEventTy"/>
+
+        <ListPreference
+            android:entries="@array/event_time"
+            android:entryValues="@array/event_time"
+            android:key="event_time"
+            android:summary="11:00"
+            android:title="@string/labelEventTime"
+            />
+
+        <ListPreference
+            android:entries="@array/alarm_before_time"
+            android:entryValues="@array/alarm_before_time"
+            android:key="alarm_time"
+            android:summary="@string/before30min"
+            android:title="@string/labelAlarmTime"
+            />
+
+    </PreferenceCategory>
+</PreferenceScreen>
