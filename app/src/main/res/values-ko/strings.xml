@@ -8,7 +8,7 @@
     <string name="dialogSave">저장할까요?</string>
     <string name="lableCancel">취소</string>
     <string name="action_backup">백업</string>
-    <string name="msgNotBackup">백업이 실폐하였습니다.</string>
+    <string name="msgNotBackup">백업이 실패하였습니다.</string>
     <string name="msgBackup">백업하는 중</string>
     <string name="msgBackupCompiled">백업이 되었습니다.</string>
     <string name="lableReceivedSMS">수신한 SMS,MMS 읽기</string>
